@@ -1,4 +1,4 @@
-mdef map_to_negativize(array)
+def map_to_negativize(array)
   i = 0 
   neg_array =[]
   while i < array.length do
